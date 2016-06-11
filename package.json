@@ -1,0 +1,41 @@
+{
+  "name": "grunt-hcp",
+  "description": "A grunt plugin to manage HCP server instances",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Lucas Alves",
+    "email": "lucaskalves@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucaskalves/grunt-hcp"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "inquirer": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt": "~1.0.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

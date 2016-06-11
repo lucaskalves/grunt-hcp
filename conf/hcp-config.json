@@ -1,0 +1,9 @@
+{
+    "localServerPath": "C:/Users/username/workspace/Servers/Java Web Server-config/",
+    "sourcePath": "target",
+    "hcpHost": "username.hanatrial.ondemand.com",
+    "hcpAccount": "usernametrial",
+    "hcpUser": "hcp-username or email",
+    "hcpAppName": "app",
+    "shutdownPort": "8009"
+}
