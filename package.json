@@ -1,7 +1,7 @@
 {
   "name": "grunt-hcp",
   "description": "A grunt plugin to manage HCP server instances",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "",
   "author": {
     "name": "Lucas Alves",
